@@ -74,3 +74,19 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/mm2-foggy/main/script"))()
    end,
 })
+
+local Tab = Window:CreateTab("Bee Swarm Simulator", 4483362458) -- Title, Image
+
+local Button = Tab:CreateButton({
+   Name = "histy hub(best)",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/Histy"))()
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "KocmocV3 (idk why this)",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/Scripts2024/main/KocmocV3"))()
+   end,
+})
