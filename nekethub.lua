@@ -1,9 +1,9 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 Rayfield:Notify({
-   Title = "Notification Title",
-   Content = "Notification Content",
-   Duration = 6.5,
+   Title = "Enjoy)",
+   Content = "Best keyless scripts here",
+   Duration = 15,
    Image = 4483362458,
 })
 
