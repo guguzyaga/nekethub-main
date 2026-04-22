@@ -43,7 +43,7 @@ local Window = Rayfield:CreateWindow({
    }
 })
 
-local Tab = Window:CreateTab("Troll", 4483362458) -- Title, Image
+local Tab = Window:CreateTab("Troll", 106518664409922) -- Title, Image
 
 local Button = Tab:CreateButton({
    Name = "Our Favorite Infinite Yield",
@@ -82,7 +82,7 @@ local Button = Tab:CreateButton({
    end,
 })
 
-local Tab = Window:CreateTab("Bee Swarm Simulator", 4483362458) -- Title, Image
+local Tab = Window:CreateTab("Bee Swarm Simulator", 126528955343975) -- Title, Image
 
 local Button = Tab:CreateButton({
    Name = "histy hub(worst acutally)",
