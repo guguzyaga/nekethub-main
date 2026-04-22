@@ -9,7 +9,7 @@ Rayfield:Notify({
 
 local Window = Rayfield:CreateWindow({
    Name = "nekett_ hub",
-   Icon = 11648237431, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
+   Icon = 122670953641917, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "neke scirpst",
    LoadingSubtitle = "by neket_",
    Theme = "AmberGlow", -- Check https://docs.sirius.menu/rayfield/configuration/themes
