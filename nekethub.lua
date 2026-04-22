@@ -85,15 +85,22 @@ local Button = Tab:CreateButton({
 local Tab = Window:CreateTab("Bee Swarm Simulator", 4483362458) -- Title, Image
 
 local Button = Tab:CreateButton({
-   Name = "histy hub(best)",
+   Name = "histy hub(worst acutally)",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/Histy"))()
    end,
 })
 
 local Button = Tab:CreateButton({
-   Name = "KocmocV3 (idk why this)",
+   Name = "KocmocV3 (trash)",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/Scripts2024/main/KocmocV3"))()
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "The Greatest Of All Time ATLAS",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Chris12089/atlasbss/main/script.lua"))()
    end,
 })
