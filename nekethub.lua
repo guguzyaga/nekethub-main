@@ -104,3 +104,5 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Chris12089/atlasbss/main/script.lua"))()
    end,
 })
+
+local Tab = Window:CreateTab("пизда жопа", 126528955343975) -- Title, Image
